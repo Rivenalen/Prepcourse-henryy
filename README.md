@@ -1,2 +1,1 @@
-# Prepcourse-henryy
-este es un repositorio de pruebna de prep course de henry
+prueba de como cear un repositorio y clonarlo desdew github a mi computadora
